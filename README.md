@@ -1,7 +1,7 @@
 <h1 align="center">
     
 <p align="center">
-<img src= "https://womakerscode.org/wp-content/uploads/2023/06/womakerscode.png" width="50%" height="30%"/>
+<img src= "https://www.phpit.com.br/storage/2017/10/womakers.jpg" width="50%" height="30%"/>
 
 
 <p align="center"><b> Bootcamp Python e Django - WoMakersCode </b> <p>
