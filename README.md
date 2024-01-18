@@ -17,8 +17,18 @@
 <br>
 
  Participantes:
- - Jéssica
- - Amanda
+- Amanda Dias Alves Ferreira
+- Gabriella Moreira Mansur Mesquita
+- Jéssica Cristina Machado Da Silva
+- Hevilin Cerqueira
+- Fernanda Suominsky
+- Lais Rodrigues Zahran
+- Raquel Soares Pedroso
+- Jhenyffer Oliveira
+- Sara Neves
+- Martha Lacerda Emidio Da Silva
+- Mariana Santana Amaral
+
 
 <br>
 <br>
